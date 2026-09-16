@@ -1,4 +1,4 @@
-# Mohammad Nawab - Cloud Security & SecDevOps Portfolio
+# Mohammad Nawab - Cloud Security & DevSecOps Portfolio
 
 Welcome to my portfolio! This repository showcases my projects, experience, and expertise in **Cloud Security** and **SecDevOps**.
 
